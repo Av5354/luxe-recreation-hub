@@ -4,7 +4,7 @@ import { gsap, ScrollTrigger } from "@/lib/gsap";
 import TimesGroupMark from "./TimesGroupMark";
 
 const STATS = [
-  { icon: Users, value: 0, suffix: "", label: ["ADVISORY", "BOARD MEMBERS"] },
+  { icon: Users, value: 15, suffix: "+", label: ["ADVISORY", "BOARD MEMBERS"] },
   { icon: User, value: 20, suffix: "+", label: ["CXO", "MEMBERS"] },
   { icon: Star, value: 35, suffix: "+", label: ["ENGAGEMENT", "ACTIVITIES"] },
 ];
